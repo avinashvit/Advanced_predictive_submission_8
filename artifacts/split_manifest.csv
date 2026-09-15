@@ -1,0 +1,601 @@
+row_id,state,district,season,year,split
+R00001,Tamil Nadu,Thanjavur,Kharif,2008,train
+R00002,Tamil Nadu,Thanjavur,Kharif,2009,train
+R00003,Tamil Nadu,Thanjavur,Kharif,2010,train
+R00004,Tamil Nadu,Thanjavur,Kharif,2011,train
+R00005,Tamil Nadu,Thanjavur,Kharif,2012,train
+R00006,Tamil Nadu,Thanjavur,Kharif,2013,train
+R00007,Tamil Nadu,Thanjavur,Kharif,2014,train
+R00008,Tamil Nadu,Thanjavur,Kharif,2015,train
+R00009,Tamil Nadu,Thanjavur,Kharif,2016,train
+R00010,Tamil Nadu,Thanjavur,Kharif,2017,train
+R00011,Tamil Nadu,Thanjavur,Kharif,2018,train
+R00012,Tamil Nadu,Thanjavur,Kharif,2019,validation
+R00013,Tamil Nadu,Thanjavur,Kharif,2020,validation
+R00014,Tamil Nadu,Thanjavur,Kharif,2021,test
+R00015,Tamil Nadu,Thanjavur,Kharif,2022,test
+R00016,Tamil Nadu,Thanjavur,Rabi,2008,train
+R00017,Tamil Nadu,Thanjavur,Rabi,2009,train
+R00018,Tamil Nadu,Thanjavur,Rabi,2010,train
+R00019,Tamil Nadu,Thanjavur,Rabi,2011,train
+R00020,Tamil Nadu,Thanjavur,Rabi,2012,train
+R00021,Tamil Nadu,Thanjavur,Rabi,2013,train
+R00022,Tamil Nadu,Thanjavur,Rabi,2014,train
+R00023,Tamil Nadu,Thanjavur,Rabi,2015,train
+R00024,Tamil Nadu,Thanjavur,Rabi,2016,train
+R00025,Tamil Nadu,Thanjavur,Rabi,2017,train
+R00026,Tamil Nadu,Thanjavur,Rabi,2018,train
+R00027,Tamil Nadu,Thanjavur,Rabi,2019,validation
+R00028,Tamil Nadu,Thanjavur,Rabi,2020,validation
+R00029,Tamil Nadu,Thanjavur,Rabi,2021,test
+R00030,Tamil Nadu,Thanjavur,Rabi,2022,test
+R00031,Tamil Nadu,Tiruvarur,Kharif,2008,train
+R00032,Tamil Nadu,Tiruvarur,Kharif,2009,train
+R00033,Tamil Nadu,Tiruvarur,Kharif,2010,train
+R00034,Tamil Nadu,Tiruvarur,Kharif,2011,train
+R00035,Tamil Nadu,Tiruvarur,Kharif,2012,train
+R00036,Tamil Nadu,Tiruvarur,Kharif,2013,train
+R00037,Tamil Nadu,Tiruvarur,Kharif,2014,train
+R00038,Tamil Nadu,Tiruvarur,Kharif,2015,train
+R00039,Tamil Nadu,Tiruvarur,Kharif,2016,train
+R00040,Tamil Nadu,Tiruvarur,Kharif,2017,train
+R00041,Tamil Nadu,Tiruvarur,Kharif,2018,train
+R00042,Tamil Nadu,Tiruvarur,Kharif,2019,validation
+R00043,Tamil Nadu,Tiruvarur,Kharif,2020,validation
+R00044,Tamil Nadu,Tiruvarur,Kharif,2021,test
+R00045,Tamil Nadu,Tiruvarur,Kharif,2022,test
+R00046,Tamil Nadu,Tiruvarur,Rabi,2008,train
+R00047,Tamil Nadu,Tiruvarur,Rabi,2009,train
+R00048,Tamil Nadu,Tiruvarur,Rabi,2010,train
+R00049,Tamil Nadu,Tiruvarur,Rabi,2011,train
+R00050,Tamil Nadu,Tiruvarur,Rabi,2012,train
+R00051,Tamil Nadu,Tiruvarur,Rabi,2013,train
+R00052,Tamil Nadu,Tiruvarur,Rabi,2014,train
+R00053,Tamil Nadu,Tiruvarur,Rabi,2015,train
+R00054,Tamil Nadu,Tiruvarur,Rabi,2016,train
+R00055,Tamil Nadu,Tiruvarur,Rabi,2017,train
+R00056,Tamil Nadu,Tiruvarur,Rabi,2018,train
+R00057,Tamil Nadu,Tiruvarur,Rabi,2019,validation
+R00058,Tamil Nadu,Tiruvarur,Rabi,2020,validation
+R00059,Tamil Nadu,Tiruvarur,Rabi,2021,test
+R00060,Tamil Nadu,Tiruvarur,Rabi,2022,test
+R00061,Tamil Nadu,Nagapattinam,Kharif,2008,train
+R00062,Tamil Nadu,Nagapattinam,Kharif,2009,train
+R00063,Tamil Nadu,Nagapattinam,Kharif,2010,train
+R00064,Tamil Nadu,Nagapattinam,Kharif,2011,train
+R00065,Tamil Nadu,Nagapattinam,Kharif,2012,train
+R00066,Tamil Nadu,Nagapattinam,Kharif,2013,train
+R00067,Tamil Nadu,Nagapattinam,Kharif,2014,train
+R00068,Tamil Nadu,Nagapattinam,Kharif,2015,train
+R00069,Tamil Nadu,Nagapattinam,Kharif,2016,train
+R00070,Tamil Nadu,Nagapattinam,Kharif,2017,train
+R00071,Tamil Nadu,Nagapattinam,Kharif,2018,train
+R00072,Tamil Nadu,Nagapattinam,Kharif,2019,validation
+R00073,Tamil Nadu,Nagapattinam,Kharif,2020,validation
+R00074,Tamil Nadu,Nagapattinam,Kharif,2021,test
+R00075,Tamil Nadu,Nagapattinam,Kharif,2022,test
+R00076,Tamil Nadu,Nagapattinam,Rabi,2008,train
+R00077,Tamil Nadu,Nagapattinam,Rabi,2009,train
+R00078,Tamil Nadu,Nagapattinam,Rabi,2010,train
+R00079,Tamil Nadu,Nagapattinam,Rabi,2011,train
+R00080,Tamil Nadu,Nagapattinam,Rabi,2012,train
+R00081,Tamil Nadu,Nagapattinam,Rabi,2013,train
+R00082,Tamil Nadu,Nagapattinam,Rabi,2014,train
+R00083,Tamil Nadu,Nagapattinam,Rabi,2015,train
+R00084,Tamil Nadu,Nagapattinam,Rabi,2016,train
+R00085,Tamil Nadu,Nagapattinam,Rabi,2017,train
+R00086,Tamil Nadu,Nagapattinam,Rabi,2018,train
+R00087,Tamil Nadu,Nagapattinam,Rabi,2019,validation
+R00088,Tamil Nadu,Nagapattinam,Rabi,2020,validation
+R00089,Tamil Nadu,Nagapattinam,Rabi,2021,test
+R00090,Tamil Nadu,Nagapattinam,Rabi,2022,test
+R00091,Tamil Nadu,Cuddalore,Kharif,2008,train
+R00092,Tamil Nadu,Cuddalore,Kharif,2009,train
+R00093,Tamil Nadu,Cuddalore,Kharif,2010,train
+R00094,Tamil Nadu,Cuddalore,Kharif,2011,train
+R00095,Tamil Nadu,Cuddalore,Kharif,2012,train
+R00096,Tamil Nadu,Cuddalore,Kharif,2013,train
+R00097,Tamil Nadu,Cuddalore,Kharif,2014,train
+R00098,Tamil Nadu,Cuddalore,Kharif,2015,train
+R00099,Tamil Nadu,Cuddalore,Kharif,2016,train
+R00100,Tamil Nadu,Cuddalore,Kharif,2017,train
+R00101,Tamil Nadu,Cuddalore,Kharif,2018,train
+R00102,Tamil Nadu,Cuddalore,Kharif,2019,validation
+R00103,Tamil Nadu,Cuddalore,Kharif,2020,validation
+R00104,Tamil Nadu,Cuddalore,Kharif,2021,test
+R00105,Tamil Nadu,Cuddalore,Kharif,2022,test
+R00106,Tamil Nadu,Cuddalore,Rabi,2008,train
+R00107,Tamil Nadu,Cuddalore,Rabi,2009,train
+R00108,Tamil Nadu,Cuddalore,Rabi,2010,train
+R00109,Tamil Nadu,Cuddalore,Rabi,2011,train
+R00110,Tamil Nadu,Cuddalore,Rabi,2012,train
+R00111,Tamil Nadu,Cuddalore,Rabi,2013,train
+R00112,Tamil Nadu,Cuddalore,Rabi,2014,train
+R00113,Tamil Nadu,Cuddalore,Rabi,2015,train
+R00114,Tamil Nadu,Cuddalore,Rabi,2016,train
+R00115,Tamil Nadu,Cuddalore,Rabi,2017,train
+R00116,Tamil Nadu,Cuddalore,Rabi,2018,train
+R00117,Tamil Nadu,Cuddalore,Rabi,2019,validation
+R00118,Tamil Nadu,Cuddalore,Rabi,2020,validation
+R00119,Tamil Nadu,Cuddalore,Rabi,2021,test
+R00120,Tamil Nadu,Cuddalore,Rabi,2022,test
+R00121,Andhra Pradesh,East Godavari,Kharif,2008,train
+R00122,Andhra Pradesh,East Godavari,Kharif,2009,train
+R00123,Andhra Pradesh,East Godavari,Kharif,2010,train
+R00124,Andhra Pradesh,East Godavari,Kharif,2011,train
+R00125,Andhra Pradesh,East Godavari,Kharif,2012,train
+R00126,Andhra Pradesh,East Godavari,Kharif,2013,train
+R00127,Andhra Pradesh,East Godavari,Kharif,2014,train
+R00128,Andhra Pradesh,East Godavari,Kharif,2015,train
+R00129,Andhra Pradesh,East Godavari,Kharif,2016,train
+R00130,Andhra Pradesh,East Godavari,Kharif,2017,train
+R00131,Andhra Pradesh,East Godavari,Kharif,2018,train
+R00132,Andhra Pradesh,East Godavari,Kharif,2019,validation
+R00133,Andhra Pradesh,East Godavari,Kharif,2020,validation
+R00134,Andhra Pradesh,East Godavari,Kharif,2021,test
+R00135,Andhra Pradesh,East Godavari,Kharif,2022,test
+R00136,Andhra Pradesh,East Godavari,Rabi,2008,train
+R00137,Andhra Pradesh,East Godavari,Rabi,2009,train
+R00138,Andhra Pradesh,East Godavari,Rabi,2010,train
+R00139,Andhra Pradesh,East Godavari,Rabi,2011,train
+R00140,Andhra Pradesh,East Godavari,Rabi,2012,train
+R00141,Andhra Pradesh,East Godavari,Rabi,2013,train
+R00142,Andhra Pradesh,East Godavari,Rabi,2014,train
+R00143,Andhra Pradesh,East Godavari,Rabi,2015,train
+R00144,Andhra Pradesh,East Godavari,Rabi,2016,train
+R00145,Andhra Pradesh,East Godavari,Rabi,2017,train
+R00146,Andhra Pradesh,East Godavari,Rabi,2018,train
+R00147,Andhra Pradesh,East Godavari,Rabi,2019,validation
+R00148,Andhra Pradesh,East Godavari,Rabi,2020,validation
+R00149,Andhra Pradesh,East Godavari,Rabi,2021,test
+R00150,Andhra Pradesh,East Godavari,Rabi,2022,test
+R00151,Andhra Pradesh,West Godavari,Kharif,2008,train
+R00152,Andhra Pradesh,West Godavari,Kharif,2009,train
+R00153,Andhra Pradesh,West Godavari,Kharif,2010,train
+R00154,Andhra Pradesh,West Godavari,Kharif,2011,train
+R00155,Andhra Pradesh,West Godavari,Kharif,2012,train
+R00156,Andhra Pradesh,West Godavari,Kharif,2013,train
+R00157,Andhra Pradesh,West Godavari,Kharif,2014,train
+R00158,Andhra Pradesh,West Godavari,Kharif,2015,train
+R00159,Andhra Pradesh,West Godavari,Kharif,2016,train
+R00160,Andhra Pradesh,West Godavari,Kharif,2017,train
+R00161,Andhra Pradesh,West Godavari,Kharif,2018,train
+R00162,Andhra Pradesh,West Godavari,Kharif,2019,validation
+R00163,Andhra Pradesh,West Godavari,Kharif,2020,validation
+R00164,Andhra Pradesh,West Godavari,Kharif,2021,test
+R00165,Andhra Pradesh,West Godavari,Kharif,2022,test
+R00166,Andhra Pradesh,West Godavari,Rabi,2008,train
+R00167,Andhra Pradesh,West Godavari,Rabi,2009,train
+R00168,Andhra Pradesh,West Godavari,Rabi,2010,train
+R00169,Andhra Pradesh,West Godavari,Rabi,2011,train
+R00170,Andhra Pradesh,West Godavari,Rabi,2012,train
+R00171,Andhra Pradesh,West Godavari,Rabi,2013,train
+R00172,Andhra Pradesh,West Godavari,Rabi,2014,train
+R00173,Andhra Pradesh,West Godavari,Rabi,2015,train
+R00174,Andhra Pradesh,West Godavari,Rabi,2016,train
+R00175,Andhra Pradesh,West Godavari,Rabi,2017,train
+R00176,Andhra Pradesh,West Godavari,Rabi,2018,train
+R00177,Andhra Pradesh,West Godavari,Rabi,2019,validation
+R00178,Andhra Pradesh,West Godavari,Rabi,2020,validation
+R00179,Andhra Pradesh,West Godavari,Rabi,2021,test
+R00180,Andhra Pradesh,West Godavari,Rabi,2022,test
+R00181,Andhra Pradesh,Krishna,Kharif,2008,train
+R00182,Andhra Pradesh,Krishna,Kharif,2009,train
+R00183,Andhra Pradesh,Krishna,Kharif,2010,train
+R00184,Andhra Pradesh,Krishna,Kharif,2011,train
+R00185,Andhra Pradesh,Krishna,Kharif,2012,train
+R00186,Andhra Pradesh,Krishna,Kharif,2013,train
+R00187,Andhra Pradesh,Krishna,Kharif,2014,train
+R00188,Andhra Pradesh,Krishna,Kharif,2015,train
+R00189,Andhra Pradesh,Krishna,Kharif,2016,train
+R00190,Andhra Pradesh,Krishna,Kharif,2017,train
+R00191,Andhra Pradesh,Krishna,Kharif,2018,train
+R00192,Andhra Pradesh,Krishna,Kharif,2019,validation
+R00193,Andhra Pradesh,Krishna,Kharif,2020,validation
+R00194,Andhra Pradesh,Krishna,Kharif,2021,test
+R00195,Andhra Pradesh,Krishna,Kharif,2022,test
+R00196,Andhra Pradesh,Krishna,Rabi,2008,train
+R00197,Andhra Pradesh,Krishna,Rabi,2009,train
+R00198,Andhra Pradesh,Krishna,Rabi,2010,train
+R00199,Andhra Pradesh,Krishna,Rabi,2011,train
+R00200,Andhra Pradesh,Krishna,Rabi,2012,train
+R00201,Andhra Pradesh,Krishna,Rabi,2013,train
+R00202,Andhra Pradesh,Krishna,Rabi,2014,train
+R00203,Andhra Pradesh,Krishna,Rabi,2015,train
+R00204,Andhra Pradesh,Krishna,Rabi,2016,train
+R00205,Andhra Pradesh,Krishna,Rabi,2017,train
+R00206,Andhra Pradesh,Krishna,Rabi,2018,train
+R00207,Andhra Pradesh,Krishna,Rabi,2019,validation
+R00208,Andhra Pradesh,Krishna,Rabi,2020,validation
+R00209,Andhra Pradesh,Krishna,Rabi,2021,test
+R00210,Andhra Pradesh,Krishna,Rabi,2022,test
+R00211,Andhra Pradesh,Guntur,Kharif,2008,train
+R00212,Andhra Pradesh,Guntur,Kharif,2009,train
+R00213,Andhra Pradesh,Guntur,Kharif,2010,train
+R00214,Andhra Pradesh,Guntur,Kharif,2011,train
+R00215,Andhra Pradesh,Guntur,Kharif,2012,train
+R00216,Andhra Pradesh,Guntur,Kharif,2013,train
+R00217,Andhra Pradesh,Guntur,Kharif,2014,train
+R00218,Andhra Pradesh,Guntur,Kharif,2015,train
+R00219,Andhra Pradesh,Guntur,Kharif,2016,train
+R00220,Andhra Pradesh,Guntur,Kharif,2017,train
+R00221,Andhra Pradesh,Guntur,Kharif,2018,train
+R00222,Andhra Pradesh,Guntur,Kharif,2019,validation
+R00223,Andhra Pradesh,Guntur,Kharif,2020,validation
+R00224,Andhra Pradesh,Guntur,Kharif,2021,test
+R00225,Andhra Pradesh,Guntur,Kharif,2022,test
+R00226,Andhra Pradesh,Guntur,Rabi,2008,train
+R00227,Andhra Pradesh,Guntur,Rabi,2009,train
+R00228,Andhra Pradesh,Guntur,Rabi,2010,train
+R00229,Andhra Pradesh,Guntur,Rabi,2011,train
+R00230,Andhra Pradesh,Guntur,Rabi,2012,train
+R00231,Andhra Pradesh,Guntur,Rabi,2013,train
+R00232,Andhra Pradesh,Guntur,Rabi,2014,train
+R00233,Andhra Pradesh,Guntur,Rabi,2015,train
+R00234,Andhra Pradesh,Guntur,Rabi,2016,train
+R00235,Andhra Pradesh,Guntur,Rabi,2017,train
+R00236,Andhra Pradesh,Guntur,Rabi,2018,train
+R00237,Andhra Pradesh,Guntur,Rabi,2019,validation
+R00238,Andhra Pradesh,Guntur,Rabi,2020,validation
+R00239,Andhra Pradesh,Guntur,Rabi,2021,test
+R00240,Andhra Pradesh,Guntur,Rabi,2022,test
+R00241,West Bengal,Bardhaman,Kharif,2008,train
+R00242,West Bengal,Bardhaman,Kharif,2009,train
+R00243,West Bengal,Bardhaman,Kharif,2010,train
+R00244,West Bengal,Bardhaman,Kharif,2011,train
+R00245,West Bengal,Bardhaman,Kharif,2012,train
+R00246,West Bengal,Bardhaman,Kharif,2013,train
+R00247,West Bengal,Bardhaman,Kharif,2014,train
+R00248,West Bengal,Bardhaman,Kharif,2015,train
+R00249,West Bengal,Bardhaman,Kharif,2016,train
+R00250,West Bengal,Bardhaman,Kharif,2017,train
+R00251,West Bengal,Bardhaman,Kharif,2018,train
+R00252,West Bengal,Bardhaman,Kharif,2019,validation
+R00253,West Bengal,Bardhaman,Kharif,2020,validation
+R00254,West Bengal,Bardhaman,Kharif,2021,test
+R00255,West Bengal,Bardhaman,Kharif,2022,test
+R00256,West Bengal,Bardhaman,Rabi,2008,train
+R00257,West Bengal,Bardhaman,Rabi,2009,train
+R00258,West Bengal,Bardhaman,Rabi,2010,train
+R00259,West Bengal,Bardhaman,Rabi,2011,train
+R00260,West Bengal,Bardhaman,Rabi,2012,train
+R00261,West Bengal,Bardhaman,Rabi,2013,train
+R00262,West Bengal,Bardhaman,Rabi,2014,train
+R00263,West Bengal,Bardhaman,Rabi,2015,train
+R00264,West Bengal,Bardhaman,Rabi,2016,train
+R00265,West Bengal,Bardhaman,Rabi,2017,train
+R00266,West Bengal,Bardhaman,Rabi,2018,train
+R00267,West Bengal,Bardhaman,Rabi,2019,validation
+R00268,West Bengal,Bardhaman,Rabi,2020,validation
+R00269,West Bengal,Bardhaman,Rabi,2021,test
+R00270,West Bengal,Bardhaman,Rabi,2022,test
+R00271,West Bengal,Hooghly,Kharif,2008,train
+R00272,West Bengal,Hooghly,Kharif,2009,train
+R00273,West Bengal,Hooghly,Kharif,2010,train
+R00274,West Bengal,Hooghly,Kharif,2011,train
+R00275,West Bengal,Hooghly,Kharif,2012,train
+R00276,West Bengal,Hooghly,Kharif,2013,train
+R00277,West Bengal,Hooghly,Kharif,2014,train
+R00278,West Bengal,Hooghly,Kharif,2015,train
+R00279,West Bengal,Hooghly,Kharif,2016,train
+R00280,West Bengal,Hooghly,Kharif,2017,train
+R00281,West Bengal,Hooghly,Kharif,2018,train
+R00282,West Bengal,Hooghly,Kharif,2019,validation
+R00283,West Bengal,Hooghly,Kharif,2020,validation
+R00284,West Bengal,Hooghly,Kharif,2021,test
+R00285,West Bengal,Hooghly,Kharif,2022,test
+R00286,West Bengal,Hooghly,Rabi,2008,train
+R00287,West Bengal,Hooghly,Rabi,2009,train
+R00288,West Bengal,Hooghly,Rabi,2010,train
+R00289,West Bengal,Hooghly,Rabi,2011,train
+R00290,West Bengal,Hooghly,Rabi,2012,train
+R00291,West Bengal,Hooghly,Rabi,2013,train
+R00292,West Bengal,Hooghly,Rabi,2014,train
+R00293,West Bengal,Hooghly,Rabi,2015,train
+R00294,West Bengal,Hooghly,Rabi,2016,train
+R00295,West Bengal,Hooghly,Rabi,2017,train
+R00296,West Bengal,Hooghly,Rabi,2018,train
+R00297,West Bengal,Hooghly,Rabi,2019,validation
+R00298,West Bengal,Hooghly,Rabi,2020,validation
+R00299,West Bengal,Hooghly,Rabi,2021,test
+R00300,West Bengal,Hooghly,Rabi,2022,test
+R00301,West Bengal,Murshidabad,Kharif,2008,train
+R00302,West Bengal,Murshidabad,Kharif,2009,train
+R00303,West Bengal,Murshidabad,Kharif,2010,train
+R00304,West Bengal,Murshidabad,Kharif,2011,train
+R00305,West Bengal,Murshidabad,Kharif,2012,train
+R00306,West Bengal,Murshidabad,Kharif,2013,train
+R00307,West Bengal,Murshidabad,Kharif,2014,train
+R00308,West Bengal,Murshidabad,Kharif,2015,train
+R00309,West Bengal,Murshidabad,Kharif,2016,train
+R00310,West Bengal,Murshidabad,Kharif,2017,train
+R00311,West Bengal,Murshidabad,Kharif,2018,train
+R00312,West Bengal,Murshidabad,Kharif,2019,validation
+R00313,West Bengal,Murshidabad,Kharif,2020,validation
+R00314,West Bengal,Murshidabad,Kharif,2021,test
+R00315,West Bengal,Murshidabad,Kharif,2022,test
+R00316,West Bengal,Murshidabad,Rabi,2008,train
+R00317,West Bengal,Murshidabad,Rabi,2009,train
+R00318,West Bengal,Murshidabad,Rabi,2010,train
+R00319,West Bengal,Murshidabad,Rabi,2011,train
+R00320,West Bengal,Murshidabad,Rabi,2012,train
+R00321,West Bengal,Murshidabad,Rabi,2013,train
+R00322,West Bengal,Murshidabad,Rabi,2014,train
+R00323,West Bengal,Murshidabad,Rabi,2015,train
+R00324,West Bengal,Murshidabad,Rabi,2016,train
+R00325,West Bengal,Murshidabad,Rabi,2017,train
+R00326,West Bengal,Murshidabad,Rabi,2018,train
+R00327,West Bengal,Murshidabad,Rabi,2019,validation
+R00328,West Bengal,Murshidabad,Rabi,2020,validation
+R00329,West Bengal,Murshidabad,Rabi,2021,test
+R00330,West Bengal,Murshidabad,Rabi,2022,test
+R00331,West Bengal,Nadia,Kharif,2008,train
+R00332,West Bengal,Nadia,Kharif,2009,train
+R00333,West Bengal,Nadia,Kharif,2010,train
+R00334,West Bengal,Nadia,Kharif,2011,train
+R00335,West Bengal,Nadia,Kharif,2012,train
+R00336,West Bengal,Nadia,Kharif,2013,train
+R00337,West Bengal,Nadia,Kharif,2014,train
+R00338,West Bengal,Nadia,Kharif,2015,train
+R00339,West Bengal,Nadia,Kharif,2016,train
+R00340,West Bengal,Nadia,Kharif,2017,train
+R00341,West Bengal,Nadia,Kharif,2018,train
+R00342,West Bengal,Nadia,Kharif,2019,validation
+R00343,West Bengal,Nadia,Kharif,2020,validation
+R00344,West Bengal,Nadia,Kharif,2021,test
+R00345,West Bengal,Nadia,Kharif,2022,test
+R00346,West Bengal,Nadia,Rabi,2008,train
+R00347,West Bengal,Nadia,Rabi,2009,train
+R00348,West Bengal,Nadia,Rabi,2010,train
+R00349,West Bengal,Nadia,Rabi,2011,train
+R00350,West Bengal,Nadia,Rabi,2012,train
+R00351,West Bengal,Nadia,Rabi,2013,train
+R00352,West Bengal,Nadia,Rabi,2014,train
+R00353,West Bengal,Nadia,Rabi,2015,train
+R00354,West Bengal,Nadia,Rabi,2016,train
+R00355,West Bengal,Nadia,Rabi,2017,train
+R00356,West Bengal,Nadia,Rabi,2018,train
+R00357,West Bengal,Nadia,Rabi,2019,validation
+R00358,West Bengal,Nadia,Rabi,2020,validation
+R00359,West Bengal,Nadia,Rabi,2021,test
+R00360,West Bengal,Nadia,Rabi,2022,test
+R00361,Punjab,Amritsar,Kharif,2008,train
+R00362,Punjab,Amritsar,Kharif,2009,train
+R00363,Punjab,Amritsar,Kharif,2010,train
+R00364,Punjab,Amritsar,Kharif,2011,train
+R00365,Punjab,Amritsar,Kharif,2012,train
+R00366,Punjab,Amritsar,Kharif,2013,train
+R00367,Punjab,Amritsar,Kharif,2014,train
+R00368,Punjab,Amritsar,Kharif,2015,train
+R00369,Punjab,Amritsar,Kharif,2016,train
+R00370,Punjab,Amritsar,Kharif,2017,train
+R00371,Punjab,Amritsar,Kharif,2018,train
+R00372,Punjab,Amritsar,Kharif,2019,validation
+R00373,Punjab,Amritsar,Kharif,2020,validation
+R00374,Punjab,Amritsar,Kharif,2021,test
+R00375,Punjab,Amritsar,Kharif,2022,test
+R00376,Punjab,Amritsar,Rabi,2008,train
+R00377,Punjab,Amritsar,Rabi,2009,train
+R00378,Punjab,Amritsar,Rabi,2010,train
+R00379,Punjab,Amritsar,Rabi,2011,train
+R00380,Punjab,Amritsar,Rabi,2012,train
+R00381,Punjab,Amritsar,Rabi,2013,train
+R00382,Punjab,Amritsar,Rabi,2014,train
+R00383,Punjab,Amritsar,Rabi,2015,train
+R00384,Punjab,Amritsar,Rabi,2016,train
+R00385,Punjab,Amritsar,Rabi,2017,train
+R00386,Punjab,Amritsar,Rabi,2018,train
+R00387,Punjab,Amritsar,Rabi,2019,validation
+R00388,Punjab,Amritsar,Rabi,2020,validation
+R00389,Punjab,Amritsar,Rabi,2021,test
+R00390,Punjab,Amritsar,Rabi,2022,test
+R00391,Punjab,Ludhiana,Kharif,2008,train
+R00392,Punjab,Ludhiana,Kharif,2009,train
+R00393,Punjab,Ludhiana,Kharif,2010,train
+R00394,Punjab,Ludhiana,Kharif,2011,train
+R00395,Punjab,Ludhiana,Kharif,2012,train
+R00396,Punjab,Ludhiana,Kharif,2013,train
+R00397,Punjab,Ludhiana,Kharif,2014,train
+R00398,Punjab,Ludhiana,Kharif,2015,train
+R00399,Punjab,Ludhiana,Kharif,2016,train
+R00400,Punjab,Ludhiana,Kharif,2017,train
+R00401,Punjab,Ludhiana,Kharif,2018,train
+R00402,Punjab,Ludhiana,Kharif,2019,validation
+R00403,Punjab,Ludhiana,Kharif,2020,validation
+R00404,Punjab,Ludhiana,Kharif,2021,test
+R00405,Punjab,Ludhiana,Kharif,2022,test
+R00406,Punjab,Ludhiana,Rabi,2008,train
+R00407,Punjab,Ludhiana,Rabi,2009,train
+R00408,Punjab,Ludhiana,Rabi,2010,train
+R00409,Punjab,Ludhiana,Rabi,2011,train
+R00410,Punjab,Ludhiana,Rabi,2012,train
+R00411,Punjab,Ludhiana,Rabi,2013,train
+R00412,Punjab,Ludhiana,Rabi,2014,train
+R00413,Punjab,Ludhiana,Rabi,2015,train
+R00414,Punjab,Ludhiana,Rabi,2016,train
+R00415,Punjab,Ludhiana,Rabi,2017,train
+R00416,Punjab,Ludhiana,Rabi,2018,train
+R00417,Punjab,Ludhiana,Rabi,2019,validation
+R00418,Punjab,Ludhiana,Rabi,2020,validation
+R00419,Punjab,Ludhiana,Rabi,2021,test
+R00420,Punjab,Ludhiana,Rabi,2022,test
+R00421,Punjab,Patiala,Kharif,2008,train
+R00422,Punjab,Patiala,Kharif,2009,train
+R00423,Punjab,Patiala,Kharif,2010,train
+R00424,Punjab,Patiala,Kharif,2011,train
+R00425,Punjab,Patiala,Kharif,2012,train
+R00426,Punjab,Patiala,Kharif,2013,train
+R00427,Punjab,Patiala,Kharif,2014,train
+R00428,Punjab,Patiala,Kharif,2015,train
+R00429,Punjab,Patiala,Kharif,2016,train
+R00430,Punjab,Patiala,Kharif,2017,train
+R00431,Punjab,Patiala,Kharif,2018,train
+R00432,Punjab,Patiala,Kharif,2019,validation
+R00433,Punjab,Patiala,Kharif,2020,validation
+R00434,Punjab,Patiala,Kharif,2021,test
+R00435,Punjab,Patiala,Kharif,2022,test
+R00436,Punjab,Patiala,Rabi,2008,train
+R00437,Punjab,Patiala,Rabi,2009,train
+R00438,Punjab,Patiala,Rabi,2010,train
+R00439,Punjab,Patiala,Rabi,2011,train
+R00440,Punjab,Patiala,Rabi,2012,train
+R00441,Punjab,Patiala,Rabi,2013,train
+R00442,Punjab,Patiala,Rabi,2014,train
+R00443,Punjab,Patiala,Rabi,2015,train
+R00444,Punjab,Patiala,Rabi,2016,train
+R00445,Punjab,Patiala,Rabi,2017,train
+R00446,Punjab,Patiala,Rabi,2018,train
+R00447,Punjab,Patiala,Rabi,2019,validation
+R00448,Punjab,Patiala,Rabi,2020,validation
+R00449,Punjab,Patiala,Rabi,2021,test
+R00450,Punjab,Patiala,Rabi,2022,test
+R00451,Punjab,Sangrur,Kharif,2008,train
+R00452,Punjab,Sangrur,Kharif,2009,train
+R00453,Punjab,Sangrur,Kharif,2010,train
+R00454,Punjab,Sangrur,Kharif,2011,train
+R00455,Punjab,Sangrur,Kharif,2012,train
+R00456,Punjab,Sangrur,Kharif,2013,train
+R00457,Punjab,Sangrur,Kharif,2014,train
+R00458,Punjab,Sangrur,Kharif,2015,train
+R00459,Punjab,Sangrur,Kharif,2016,train
+R00460,Punjab,Sangrur,Kharif,2017,train
+R00461,Punjab,Sangrur,Kharif,2018,train
+R00462,Punjab,Sangrur,Kharif,2019,validation
+R00463,Punjab,Sangrur,Kharif,2020,validation
+R00464,Punjab,Sangrur,Kharif,2021,test
+R00465,Punjab,Sangrur,Kharif,2022,test
+R00466,Punjab,Sangrur,Rabi,2008,train
+R00467,Punjab,Sangrur,Rabi,2009,train
+R00468,Punjab,Sangrur,Rabi,2010,train
+R00469,Punjab,Sangrur,Rabi,2011,train
+R00470,Punjab,Sangrur,Rabi,2012,train
+R00471,Punjab,Sangrur,Rabi,2013,train
+R00472,Punjab,Sangrur,Rabi,2014,train
+R00473,Punjab,Sangrur,Rabi,2015,train
+R00474,Punjab,Sangrur,Rabi,2016,train
+R00475,Punjab,Sangrur,Rabi,2017,train
+R00476,Punjab,Sangrur,Rabi,2018,train
+R00477,Punjab,Sangrur,Rabi,2019,validation
+R00478,Punjab,Sangrur,Rabi,2020,validation
+R00479,Punjab,Sangrur,Rabi,2021,test
+R00480,Punjab,Sangrur,Rabi,2022,test
+R00481,Odisha,Cuttack,Kharif,2008,train
+R00482,Odisha,Cuttack,Kharif,2009,train
+R00483,Odisha,Cuttack,Kharif,2010,train
+R00484,Odisha,Cuttack,Kharif,2011,train
+R00485,Odisha,Cuttack,Kharif,2012,train
+R00486,Odisha,Cuttack,Kharif,2013,train
+R00487,Odisha,Cuttack,Kharif,2014,train
+R00488,Odisha,Cuttack,Kharif,2015,train
+R00489,Odisha,Cuttack,Kharif,2016,train
+R00490,Odisha,Cuttack,Kharif,2017,train
+R00491,Odisha,Cuttack,Kharif,2018,train
+R00492,Odisha,Cuttack,Kharif,2019,validation
+R00493,Odisha,Cuttack,Kharif,2020,validation
+R00494,Odisha,Cuttack,Kharif,2021,test
+R00495,Odisha,Cuttack,Kharif,2022,test
+R00496,Odisha,Cuttack,Rabi,2008,train
+R00497,Odisha,Cuttack,Rabi,2009,train
+R00498,Odisha,Cuttack,Rabi,2010,train
+R00499,Odisha,Cuttack,Rabi,2011,train
+R00500,Odisha,Cuttack,Rabi,2012,train
+R00501,Odisha,Cuttack,Rabi,2013,train
+R00502,Odisha,Cuttack,Rabi,2014,train
+R00503,Odisha,Cuttack,Rabi,2015,train
+R00504,Odisha,Cuttack,Rabi,2016,train
+R00505,Odisha,Cuttack,Rabi,2017,train
+R00506,Odisha,Cuttack,Rabi,2018,train
+R00507,Odisha,Cuttack,Rabi,2019,validation
+R00508,Odisha,Cuttack,Rabi,2020,validation
+R00509,Odisha,Cuttack,Rabi,2021,test
+R00510,Odisha,Cuttack,Rabi,2022,test
+R00511,Odisha,Puri,Kharif,2008,train
+R00512,Odisha,Puri,Kharif,2009,train
+R00513,Odisha,Puri,Kharif,2010,train
+R00514,Odisha,Puri,Kharif,2011,train
+R00515,Odisha,Puri,Kharif,2012,train
+R00516,Odisha,Puri,Kharif,2013,train
+R00517,Odisha,Puri,Kharif,2014,train
+R00518,Odisha,Puri,Kharif,2015,train
+R00519,Odisha,Puri,Kharif,2016,train
+R00520,Odisha,Puri,Kharif,2017,train
+R00521,Odisha,Puri,Kharif,2018,train
+R00522,Odisha,Puri,Kharif,2019,validation
+R00523,Odisha,Puri,Kharif,2020,validation
+R00524,Odisha,Puri,Kharif,2021,test
+R00525,Odisha,Puri,Kharif,2022,test
+R00526,Odisha,Puri,Rabi,2008,train
+R00527,Odisha,Puri,Rabi,2009,train
+R00528,Odisha,Puri,Rabi,2010,train
+R00529,Odisha,Puri,Rabi,2011,train
+R00530,Odisha,Puri,Rabi,2012,train
+R00531,Odisha,Puri,Rabi,2013,train
+R00532,Odisha,Puri,Rabi,2014,train
+R00533,Odisha,Puri,Rabi,2015,train
+R00534,Odisha,Puri,Rabi,2016,train
+R00535,Odisha,Puri,Rabi,2017,train
+R00536,Odisha,Puri,Rabi,2018,train
+R00537,Odisha,Puri,Rabi,2019,validation
+R00538,Odisha,Puri,Rabi,2020,validation
+R00539,Odisha,Puri,Rabi,2021,test
+R00540,Odisha,Puri,Rabi,2022,test
+R00541,Odisha,Balasore,Kharif,2008,train
+R00542,Odisha,Balasore,Kharif,2009,train
+R00543,Odisha,Balasore,Kharif,2010,train
+R00544,Odisha,Balasore,Kharif,2011,train
+R00545,Odisha,Balasore,Kharif,2012,train
+R00546,Odisha,Balasore,Kharif,2013,train
+R00547,Odisha,Balasore,Kharif,2014,train
+R00548,Odisha,Balasore,Kharif,2015,train
+R00549,Odisha,Balasore,Kharif,2016,train
+R00550,Odisha,Balasore,Kharif,2017,train
+R00551,Odisha,Balasore,Kharif,2018,train
+R00552,Odisha,Balasore,Kharif,2019,validation
+R00553,Odisha,Balasore,Kharif,2020,validation
+R00554,Odisha,Balasore,Kharif,2021,test
+R00555,Odisha,Balasore,Kharif,2022,test
+R00556,Odisha,Balasore,Rabi,2008,train
+R00557,Odisha,Balasore,Rabi,2009,train
+R00558,Odisha,Balasore,Rabi,2010,train
+R00559,Odisha,Balasore,Rabi,2011,train
+R00560,Odisha,Balasore,Rabi,2012,train
+R00561,Odisha,Balasore,Rabi,2013,train
+R00562,Odisha,Balasore,Rabi,2014,train
+R00563,Odisha,Balasore,Rabi,2015,train
+R00564,Odisha,Balasore,Rabi,2016,train
+R00565,Odisha,Balasore,Rabi,2017,train
+R00566,Odisha,Balasore,Rabi,2018,train
+R00567,Odisha,Balasore,Rabi,2019,validation
+R00568,Odisha,Balasore,Rabi,2020,validation
+R00569,Odisha,Balasore,Rabi,2021,test
+R00570,Odisha,Balasore,Rabi,2022,test
+R00571,Odisha,Ganjam,Kharif,2008,train
+R00572,Odisha,Ganjam,Kharif,2009,train
+R00573,Odisha,Ganjam,Kharif,2010,train
+R00574,Odisha,Ganjam,Kharif,2011,train
+R00575,Odisha,Ganjam,Kharif,2012,train
+R00576,Odisha,Ganjam,Kharif,2013,train
+R00577,Odisha,Ganjam,Kharif,2014,train
+R00578,Odisha,Ganjam,Kharif,2015,train
+R00579,Odisha,Ganjam,Kharif,2016,train
+R00580,Odisha,Ganjam,Kharif,2017,train
+R00581,Odisha,Ganjam,Kharif,2018,train
+R00582,Odisha,Ganjam,Kharif,2019,validation
+R00583,Odisha,Ganjam,Kharif,2020,validation
+R00584,Odisha,Ganjam,Kharif,2021,test
+R00585,Odisha,Ganjam,Kharif,2022,test
+R00586,Odisha,Ganjam,Rabi,2008,train
+R00587,Odisha,Ganjam,Rabi,2009,train
+R00588,Odisha,Ganjam,Rabi,2010,train
+R00589,Odisha,Ganjam,Rabi,2011,train
+R00590,Odisha,Ganjam,Rabi,2012,train
+R00591,Odisha,Ganjam,Rabi,2013,train
+R00592,Odisha,Ganjam,Rabi,2014,train
+R00593,Odisha,Ganjam,Rabi,2015,train
+R00594,Odisha,Ganjam,Rabi,2016,train
+R00595,Odisha,Ganjam,Rabi,2017,train
+R00596,Odisha,Ganjam,Rabi,2018,train
+R00597,Odisha,Ganjam,Rabi,2019,validation
+R00598,Odisha,Ganjam,Rabi,2020,validation
+R00599,Odisha,Ganjam,Rabi,2021,test
+R00600,Odisha,Ganjam,Rabi,2022,test

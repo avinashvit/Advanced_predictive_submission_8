@@ -1,0 +1,7 @@
+{
+  "selected_classification_model": "forest",
+  "selected_regression_model": "ridge_trend",
+  "cls_val_macro_F1": 0.9909062482233214,
+  "reg_val_MAE": 0.14507298928064966,
+  "timestamp": "2026-09-15 13:14:01"
+}

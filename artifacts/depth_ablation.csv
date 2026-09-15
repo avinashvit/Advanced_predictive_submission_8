@@ -1,0 +1,5 @@
+task,model,max_depth,val_metric,metric_name
+regression,forest_depth6,6,0.1748033410575342,Val MAE
+regression,forest_depth12,12,0.1710399565170578,Val MAE
+classification,forest_depth6,6,0.986346558875442,Val Macro F1
+classification,forest_depth12,12,0.9909062482233214,Val Macro F1

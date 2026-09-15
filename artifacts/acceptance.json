@@ -1,0 +1,30 @@
+{
+  "student_name": "AVINASH A",
+  "registration_number": "23MID0344",
+  "course": "MDI3003 - Advanced Predictive Analytics",
+  "experiment": "Experiment 08 Agricultural Predictive Analytics",
+  "date": "2026-09-15 13:14:01",
+  "environment": {
+    "python": "3.12.6",
+    "sklearn": "1.9.0",
+    "pandas": "3.0.3",
+    "numpy": "2.5.1",
+    "seed": 42
+  },
+  "hashes": {
+    "crop_recommendation_raw_sha256": "54a5a6e5408668e668667efc50de2fc867c1b875e0431b4f54dd331b0a109a4e",
+    "crop_labels_canonical_sha256": "ea275e5d1b97baae9dfbd440091f3cd4183bb5f364be637745b469c37ea3957e",
+    "rice_canonical_sha256": "b15a81cc047fd7ad3df2d389e93c58e1008c4d3979d56946f6ceeee64b67837b"
+  },
+  "verification_checks": {
+    "split_disjoint": true,
+    "zero_future_leakage": true,
+    "reload_consistent": true,
+    "locked_test_opened_once": true,
+    "reproducibility_confirmed": true
+  },
+  "selected_models": {
+    "regression": "ridge_trend",
+    "classification": "forest"
+  }
+}
